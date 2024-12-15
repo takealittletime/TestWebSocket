@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+  "types": ["node"],
+  "moduleDetection": "force",
+  "module": "CommonJS",
+  "target": "ES6",
+  "esModuleInterop": true
+  }
+}
